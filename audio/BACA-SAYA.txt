@@ -1,0 +1,5 @@
+Letakkan berkas musik "Cangget Agung" di folder ini dengan nama persis:
+    cangget-agung.mp3
+Jika berkas ada, game memutarnya sebagai musik latar (volume diatur di Pengaturan).
+Jika tidak ada, game memakai nada sintetis sederhana.
+Gunakan rekaman yang boleh Anda pakai (milik sendiri / berlisensi / izin pemegang hak).
